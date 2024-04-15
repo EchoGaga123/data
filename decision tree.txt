@@ -1,0 +1,9 @@
+Age       Appearance        EducationBackground        Wealth           LikeUser
+25-35         nice                         high                             rich                like
+25-35         nice                         low                              poor               dislike
+35-45         common                  high                             rich                like
+25-35         common                  low                              rich                dislike
+25-35         nice                          high                             poor              like
+25-35         nice                          high                             rich                like
+35-45         nice                          low                             rich                 like
+35-45         common                  low                             poor                dislike
